@@ -43,15 +43,17 @@
 2.) Navigate to the project directory:
  ```bash
  cd RydeRentals
+```
 
 3.) Install the required dependencies:
  ```bash
 npm install
+```
 
 4.) Start the development server
  ```bash
 npm start
-
+```
 Usage
 Register: Create an account to list your cars or to rent.
 List Your Car: Fill out the form to add your vehicle to the platform.
