@@ -41,12 +41,15 @@
    ```bash
    git clone https://github.com/yourusername/RydeRentals.git
 2.) Navigate to the project directory:
-cd RydeRentals
+ ```bash
+ cd RydeRentals
 
 3.) Install the required dependencies:
+ ```bash
 npm install
 
 4.) Start the development server
+ ```bash
 npm start
 
 Usage
